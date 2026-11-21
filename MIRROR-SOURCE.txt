@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: platform_external_OpenCL-CLHPP
+path: external/CMock
+gitmodules_url: https://github.com/ThrowTheSwitch/CMock
+fetched_from: https://github.com/ThrowTheSwitch/CMock.git
+commit: 379a9a8d5dd5cdff8fd345710dd70ae26f966c71
+branch: master
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
